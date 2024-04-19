@@ -1,6 +1,6 @@
 # tennis_court_schedule
 
-Tennis court schedule app
+Tennis court schedule app made for scheduling 3 types of tennis courts giving weather conditions of the day of the schedule. 
 
 ## Getting Started
 
